@@ -27,4 +27,4 @@ Comprova els fitxers:
 
 [Registre de canvis](CHANGELOG.md)
 
-© XS Field Calc
+© 2026 XS Field Calc. Tots els drets reservats. [Llicència d'ús](LICENSE.md)

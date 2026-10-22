@@ -27,4 +27,4 @@ Verify the files:
 
 [Changelog (in Catalan)](CHANGELOG.md)
 
-© XS Field Calc
+© 2026 XS Field Calc. All rights reserved. [License](LICENSE.en.md)

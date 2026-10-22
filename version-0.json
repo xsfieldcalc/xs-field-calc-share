@@ -1,9 +1,9 @@
 {
- "id": "380d4713e8dc",
- "ts": 1792694235,
- "date": "2026-10-22 20:37",
+ "id": "977dc347b4e9",
+ "ts": 1792698340,
+ "date": "2026-10-22 21:45",
  "expires": "2026-12-31",
  "revoked": false,
- "sha256": "609b062c21d9071bdd32286c05a6e25afdf89df42da3a612bb70e915a31dd195",
+ "sha256": "1ad2e6aa64ba9f37a655a3117734b6f90170b2da09d35060cd9725711ef86750",
  "file": "xs-field-calc-0.html"
 }

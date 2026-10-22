@@ -27,4 +27,4 @@ Egiaztatu fitxategiak:
 
 [Aldaketen erregistroa (katalanez)](CHANGELOG.md)
 
-© XS Field Calc
+© 2026 XS Field Calc. Eskubide guztiak erreserbatuta. [Erabiltzeko lizentzia](LICENSE.eu.md)

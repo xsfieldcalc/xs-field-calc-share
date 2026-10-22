@@ -27,4 +27,4 @@ Comprueba los archivos:
 
 [Registro de cambios (en catalán)](CHANGELOG.md)
 
-© XS Field Calc
+© 2026 XS Field Calc. Todos los derechos reservados. [Licencia de uso](LICENSE.es.md)
