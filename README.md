@@ -13,6 +13,8 @@ Open it in any up-to-date browser, also on a phone. Works offline, no sign-up, n
 your data stays in your browser. When online, the app checks this repository for a new
 version, downloads it, verifies its SHA-256 and switches to it. Your jobs and settings stay.
 
+Obre-la / Open it: https://xsfieldcalc.github.io/xs-field-calc-share/
+
 Comprova el fitxer / Verify the file:
 
     sha256sum -c SHA256SUMS        # GNU/Linux
