@@ -1,7 +1,7 @@
 {
  "name": "XS Field Calc",
  "short_name": "XS Field Calc",
- "lang": "ca",
+ "lang": "en",
  "dir": "ltr",
  "start_url": "xs-field-calc.html",
  "scope": "./",
@@ -30,8 +30,8 @@
  ],
  "shortcuts": [
   {
-   "name": "Darrera eina",
-   "short_name": "Darrera eina",
+   "name": "Last tool used",
+   "short_name": "Last tool",
    "url": "xs-field-calc.html#last",
    "icons": [
     {
@@ -42,8 +42,8 @@
    ]
   },
   {
-   "name": "Caiguda de tensió",
-   "short_name": "Caiguda de tensió",
+   "name": "Voltage drop",
+   "short_name": "Voltage drop",
    "url": "xs-field-calc.html#vd",
    "icons": [
     {
@@ -54,8 +54,8 @@
    ]
   },
   {
-   "name": "Eines elèctriques",
-   "short_name": "Elèctric",
+   "name": "Electrical tools",
+   "short_name": "Electrical",
    "url": "xs-field-calc.html#electric",
    "icons": [
     {
@@ -66,8 +66,8 @@
    ]
   },
   {
-   "name": "Obres i historial",
-   "short_name": "Obres",
+   "name": "Jobs and history",
+   "short_name": "Jobs",
    "url": "xs-field-calc.html#jobs",
    "icons": [
     {
