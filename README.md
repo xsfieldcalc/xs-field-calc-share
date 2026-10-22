@@ -1,3 +1,5 @@
+<img src="xs-field-calc-icon-512.png" alt="" width="96" height="96">
+
 # XS Field Calc
 
 Eines de càlcul gratuïtes per a electricistes, en un sol fitxer: `xs-field-calc.html`.
