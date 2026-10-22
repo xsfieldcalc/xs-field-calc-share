@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · **Español** · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md)
 
-Versión 1.0 · 22 de octubre de 2026
+Versión 1.1 · 22 de octubre de 2026
 
 © 2026 XS Field Calc. Todos los derechos reservados.
 
@@ -20,6 +20,7 @@ Esta traducción es solo informativa. El texto que vale es el catalán ([LICENSE
 - [8. Privacidad](#8-privacidad)
 - [9. Propiedad intelectual](#9-propiedad-intelectual)
 - [10. Ley aplicable y jurisdicción](#10-ley-aplicable-y-jurisdicción)
+- [11. Contacto](#11-contacto)
 
 ## 1. Objeto
 
@@ -78,3 +79,7 @@ La aplicación está protegida por la Ley de Propiedad Intelectual y por los tra
 ## 10. Ley aplicable y jurisdicción
 
 Esta licencia se rige por la ley española. Para cualquier conflicto, las partes se someten a los juzgados y tribunales de Lleida, salvo cuando quien usa la aplicación es un consumidor: en ese caso, es competente el juzgado que fije la normativa de consumo.
+
+## 11. Contacto
+
+Para permisos, avisos de errores o cualquier consulta sobre esta licencia: contacte@xsfieldcalc.com.

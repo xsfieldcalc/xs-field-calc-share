@@ -27,4 +27,4 @@ Kontrolu la dosierojn:
 
 [Ŝanĝprotokolo (katalune)](CHANGELOG.md)
 
-© 2026 XS Field Calc. Ĉiuj rajtoj rezervitaj. [Uzpermesilo](LICENSE.eo.md)
+© 2026 XS Field Calc. Ĉiuj rajtoj rezervitaj. [Uzpermesilo](LICENSE.eo.md) · Kontakto: contacte@xsfieldcalc.com

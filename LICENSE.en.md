@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · **English** · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md)
 
-Version 1.0 · 22 October 2026
+Version 1.1 · 22 October 2026
 
 © 2026 XS Field Calc. All rights reserved.
 
@@ -20,6 +20,7 @@ This translation is for information only. The binding text is the Catalan one ([
 - [8. Privacy](#8-privacy)
 - [9. Intellectual property](#9-intellectual-property)
 - [10. Governing law and jurisdiction](#10-governing-law-and-jurisdiction)
+- [11. Contact](#11-contact)
 
 ## 1. Subject
 
@@ -78,3 +79,7 @@ The app is protected by Spanish intellectual property law and by international t
 ## 10. Governing law and jurisdiction
 
 This license is governed by Spanish law. For any dispute, the parties submit to the courts of Lleida (Spain), except where the user is a consumer, in which case the court set by consumer law has jurisdiction.
+
+## 11. Contact
+
+For permissions, error reports or any question about this license: contacte@xsfieldcalc.com.

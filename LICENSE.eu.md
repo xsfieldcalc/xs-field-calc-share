@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · **Euskara** · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md)
 
-1.0 bertsioa · 2026ko urriaren 22a
+1.1 bertsioa · 2026ko urriaren 22a
 
 © 2026 XS Field Calc. Eskubide guztiak erreserbatuta.
 
@@ -20,6 +20,7 @@ Itzulpen hau informazio gisa baino ez da. Balio duen testua katalanezkoa da ([LI
 - [8. Pribatutasuna](#8-pribatutasuna)
 - [9. Jabetza intelektuala](#9-jabetza-intelektuala)
 - [10. Lege aplikagarria eta jurisdikzioa](#10-lege-aplikagarria-eta-jurisdikzioa)
+- [11. Harremanetarako](#11-harremanetarako)
 
 ## 1. Xedea
 
@@ -78,3 +79,7 @@ Aplikazioa Espainiako jabetza intelektualaren legeak eta nazioarteko itunek babe
 ## 10. Lege aplikagarria eta jurisdikzioa
 
 Lizentzia hau Espainiako legeak arautzen du. Edozein gatazkatarako, aldeak Lleidako epaitegi eta auzitegien mende jartzen dira, aplikazioa erabiltzen duena kontsumitzailea denean izan ezik: kasu horretan, kontsumo-araudiak finkatzen duen epaitegia da eskuduna.
+
+## 11. Harremanetarako
+
+Baimenak eskatzeko, akatsen berri emateko edo lizentzia honi buruzko edozein kontsultatarako: contacte@xsfieldcalc.com.
