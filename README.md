@@ -2,29 +2,27 @@
 
 # XS Field Calc
 
-Eines de càlcul gratuïtes per a electricistes, en un sol fitxer: `xs-field-calc.html`.
-Obre'l amb qualsevol navegador actual, també des del mòbil. Funciona sense connexió,
-sense registre i sense anuncis; les dades es queden al teu navegador.
-Quan hi ha connexió, l'app mira si hi ha una versió nova en aquest repositori,
-la baixa, en comprova el SHA-256 i s'hi canvia sola. Les obres i els ajustos es conserven.
+**Català** · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Français](README.fr.md) · [Esperanto](README.eo.md)
 
-Free calculation tools for electricians in a single file: `xs-field-calc.html`.
-Open it in any up-to-date browser, also on a phone. Works offline, no sign-up, no ads;
-your data stays in your browser. When online, the app checks this repository for a new
-version, downloads it, verifies its SHA-256 and switches to it. Your jobs and settings stay.
+Eines de càlcul gratuïtes per a electricistes, en un sol fitxer. Obre-la amb qualsevol navegador actual, també des del mòbil. Funciona sense connexió, sense registre i sense anuncis; les dades es queden al teu navegador.
 
-Tres variants, totes iguals per dins; canvia com d'amagat està el codi /
-Three variants, the same app; only how hidden the code is changes:
+Quan hi ha connexió, l'app mira si hi ha una versió nova en aquest repositori, la baixa, en comprova el SHA-256 i s'hi canvia sola. Les obres i els ajustos es conserven.
 
-| | |
+**Obre-la:** https://xsfieldcalc.github.io/xs-field-calc-share/ca/
+
+Tres variants de la mateixa app; només canvia com d'amagat està el codi:
+
+| Fitxer | Variant |
 | --- | --- |
-| `xs-field-calc.html` | Nivell 1 / level 1 (recomanada / recommended) |
-| `xs-field-calc-0.html` | Nivell 0 / level 0: compactada i empaquetada / minified and packed |
-| `xs-field-calc-2.html` | Nivell 2 / level 2: ofuscada / obfuscated |
+| `xs-field-calc.html` | Nivell 1 (recomanada): compactada i empaquetada; el codi surt de la pàgina un cop carregat |
+| `xs-field-calc-0.html` | Nivell 0: compactada i empaquetada |
+| `xs-field-calc-2.html` | Nivell 2: com el nivell 1 i, a més, ofuscada |
 
-Comprova els fitxers / Verify the files:
+Comprova els fitxers:
 
     sha256sum -c SHA256SUMS        # GNU/Linux
     sha256 -c "$(grep ' xs-field-calc.html$' SHA256SUMS | cut -d' ' -f1)" xs-field-calc.html   # FreeBSD
+
+[Registre de canvis](CHANGELOG.md)
 
 © XS Field Calc
