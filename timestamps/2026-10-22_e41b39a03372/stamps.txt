@@ -1,0 +1,3 @@
+rfc3161 digicert ok Oct 22 19:46:10 2026 GMT
+rfc3161 sectigo ok Oct 22 19:46:12 2026 GMT
+opentimestamps pendent
