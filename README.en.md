@@ -10,6 +10,8 @@ When online, the app checks this repository for a new version, downloads it, ver
 
 **Open it:** https://xsfieldcalc.github.io/xs-field-calc-share/en/
 
+On a phone, open the link and choose “Install app” or “Add to Home Screen”. On a computer, use the install icon in the address bar. After that it opens offline.
+
 Three variants of the same app; only how hidden the code is changes:
 
 | File | Variant |

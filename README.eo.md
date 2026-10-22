@@ -10,6 +10,8 @@ Kiam estas konekto, la aplikaĵo kontrolas ĉu estas nova versio en ĉi tiu depo
 
 **Malfermu ĝin:** https://xsfieldcalc.github.io/xs-field-calc-share/eo/
 
+En poŝtelefono, malfermu la ligilon kaj elektu «Instali aplikaĵon» aŭ «Aldoni al hejmekrano». En komputilo, la instala piktogramo en la adresbreto. Poste ĝi malfermiĝas senrete.
+
 Tri variantoj de la sama aplikaĵo; ŝanĝiĝas nur kiom kaŝita estas la kodo:
 
 | Dosiero | Varianto |

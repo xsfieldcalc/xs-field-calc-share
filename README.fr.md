@@ -10,6 +10,8 @@ Quand il y a une connexion, l'app vérifie s'il y a une nouvelle version dans ce
 
 **Ouvrez-la:** https://xsfieldcalc.github.io/xs-field-calc-share/fr/
 
+Sur un téléphone, ouvrez le lien et choisissez « Installer l'application » ou « Ajouter à l'écran d'accueil ». Sur un ordinateur, l'icône d'installation de la barre d'adresse. Ensuite, elle s'ouvre hors ligne.
+
 Trois variantes de la même app ; seul le degré de dissimulation du code change :
 
 | Fichier | Variante |

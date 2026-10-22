@@ -10,6 +10,8 @@ Konexioa dagoenean, aplikazioak biltegi honetan bertsio berririk dagoen begiratz
 
 **Ireki:** https://xsfieldcalc.github.io/xs-field-calc-share/eu/
 
+Mugikorrean, ireki esteka eta aukeratu «Instalatu aplikazioa» edo «Gehitu hasierako pantailan». Ordenagailuan, helbide-barrako instalatzeko ikonoa. Gero konexiorik gabe irekitzen da.
+
 Aplikazio beraren hiru aldaera; kodea zenbateraino dagoen ezkutatuta baino ez da aldatzen:
 
 | Fitxategia | Aldaera |

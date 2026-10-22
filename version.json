@@ -1,7 +1,8 @@
 {
- "id": "8d72cecc6fd8",
- "ts": 1792679916,
- "date": "2026-10-22 16:39",
- "sha256": "f03e0ee57cc51677aa80525965f0f003ec37aaf57a1d6b1ba1a68577cfa560d4",
+ "id": "ceab30e47ca1",
+ "ts": 1792683770,
+ "date": "2026-10-22 17:43",
+ "expires": "2026-12-31",
+ "sha256": "7207f14b1b4773015bc51de1119e8d65b0cb673517288b34104f1f314cc3a5b9",
  "file": "xs-field-calc.html"
 }

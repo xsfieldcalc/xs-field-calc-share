@@ -10,6 +10,8 @@ Quan hi ha connexió, l'app mira si hi ha una versió nova en aquest repositori,
 
 **Obre-la:** https://xsfieldcalc.github.io/xs-field-calc-share/ca/
 
+Al mòbil, obre l'enllaç i tria «Instal·la l'app» o «Afegeix a la pantalla d'inici». A l'ordinador, la icona d'instal·lar de la barra d'adreces. Després s'obre sense connexió.
+
 Tres variants de la mateixa app; només canvia com d'amagat està el codi:
 
 | Fitxer | Variant |

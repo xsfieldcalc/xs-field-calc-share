@@ -10,6 +10,8 @@ Cando hai conexión, a app mira se hai unha versión nova neste repositorio, des
 
 **Ábrea:** https://xsfieldcalc.github.io/xs-field-calc-share/gl/
 
+No móbil, abre a ligazón e escolle «Instalar app» ou «Engadir á pantalla de inicio». No ordenador, a icona de instalar da barra de enderezos. Despois ábrese sen conexión.
+
 Tres variantes da mesma app; só cambia canto de agochado está o código:
 
 | Ficheiro | Variante |

@@ -10,6 +10,8 @@ Quando há ligação, a app verifica se há uma versão nova neste repositório,
 
 **Abra-a:** https://xsfieldcalc.github.io/xs-field-calc-share/pt/
 
+No telemóvel, abra a ligação e escolha «Instalar app» ou «Adicionar ao ecrã principal». No computador, use o ícone de instalar da barra de endereços. Depois abre sem ligação.
+
 Três variantes da mesma app; só muda o quão escondido está o código:
 
 | Ficheiro | Variante |
