@@ -27,5 +27,55 @@
    "type": "image/png",
    "purpose": "maskable"
   }
+ ],
+ "shortcuts": [
+  {
+   "name": "Darrera eina",
+   "short_name": "Darrera eina",
+   "url": "xs-field-calc.html#last",
+   "icons": [
+    {
+     "src": "xs-field-calc-icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Caiguda de tensió",
+   "short_name": "Caiguda de tensió",
+   "url": "xs-field-calc.html#vd",
+   "icons": [
+    {
+     "src": "xs-field-calc-icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Eines elèctriques",
+   "short_name": "Elèctric",
+   "url": "xs-field-calc.html#electric",
+   "icons": [
+    {
+     "src": "xs-field-calc-icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Obres i historial",
+   "short_name": "Obres",
+   "url": "xs-field-calc.html#jobs",
+   "icons": [
+    {
+     "src": "xs-field-calc-icon-192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+    }
+   ]
+  }
  ]
 }
