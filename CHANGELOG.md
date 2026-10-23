@@ -2,6 +2,15 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-23 22:56]
+### Canviat
+- Nivell 0: versió ccbc7606456e de xs-field-calc-0.html (SHA-256 bc300fd857d5cba6…).
+- Nivell 1: versió 8dba062a0c52 de xs-field-calc.html (SHA-256 f2af5db76c61c0ad…).
+- Nivell 2: versió 09cf3c53351b de xs-field-calc-2.html (SHA-256 bd66bf34477d4560…).
+- Novetats que veuran els usuaris (entrada 1):
+  - Nou apartat «Colors de cables»: el codi de colors dels conductors a Espanya, el Regne Unit, els Estats Units, l'Argentina, el Brasil i Mèxic, amb una comparativa ràpida i les fonts oficials de cada país.
+  - A partir d'ara, quan l'app s'actualitzi, aquí veuràs què ha canviat, en l'idioma de l'app.
+
 ## [2026-10-23 18:03]
 ### Canviat
 - Nivell 0: versió cacb087c737b de xs-field-calc-0.html (SHA-256 d1edb6fb81df1fb9…).
