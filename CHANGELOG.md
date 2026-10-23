@@ -2,6 +2,12 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-24 00:51]
+### Canviat
+- Nivell 0: versió ea5001e6cd1b de xs-field-calc-0.html (SHA-256 50667b414c26c573…).
+- Nivell 1: versió c1dcd00f60bf de xs-field-calc.html (SHA-256 45f1fca06130a3bf…).
+- Nivell 2: versió e6d7613f83eb de xs-field-calc-2.html (SHA-256 c5fa1032a1a7db22…).
+
 ## [2026-10-24 00:36]
 ### Canviat
 - Nivell 0: versió 87a75303ed2d de xs-field-calc-0.html (SHA-256 1a209040e5675f7c…).
@@ -18,7 +24,6 @@ Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 - Nivell 2: versió 5ee7e4e86046 de xs-field-calc-2.html (SHA-256 061b1a28fcfcbf57…).
 - Novetats que veuran els usuaris (entrada 2):
   - Brúixola digital a «Mesures» (només surt al mòbil i a la tauleta).
-  - «Secció d'un cable amb el mòbil»: mesura el diàmetre del conductor sobre la pantalla, amb una foto i una moneda o una targeta, o enrotllant un fil en un llapis, i en dona la secció.
   - Apartat nou «Parells d'apret»: convertidor d'unitats de parell i llista dels parells d'apret de cada aparell, amb el que s'hi ha aplicat.
   - Llei de Coulomb a «Elèctric»: calcula la força, una càrrega o la distància.
   - Corregit: alguns camps que només han de sortir en certs casos sortien sempre.
