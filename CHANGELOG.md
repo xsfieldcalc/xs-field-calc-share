@@ -2,6 +2,15 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-24 00:36]
+### Canviat
+- Nivell 0: versió 87a75303ed2d de xs-field-calc-0.html (SHA-256 1a209040e5675f7c…).
+- Nivell 1: versió 075293bdddcc de xs-field-calc.html (SHA-256 067d288999edd46b…).
+- Nivell 2: versió 2d5559649ea7 de xs-field-calc-2.html (SHA-256 c32250d989d687a7…).
+- Novetats que veuran els usuaris (entrada 3):
+  - Apartat nou «Seguretat»: la nostra versió de les 5 regles d'or, amb una llista per anar-les marcant, i quan no s'ha de mesurar la terra.
+  - «Plaques solars: distància entre files» a «Mesures»: l'espai que cal entre files perquè no es facin ombra.
+
 ## [2026-10-23 23:55]
 ### Canviat
 - Nivell 0: versió a59c9326bd1a de xs-field-calc-0.html (SHA-256 e358b7c8b69e819f…).
