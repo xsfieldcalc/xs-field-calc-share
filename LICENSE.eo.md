@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · **Esperanto**
 
-Versio 1.1 · 22 oktobro 2026
+Versio 1.3 · 23 oktobro 2026
 
 © 2026 XS Field Calc. Ĉiuj rajtoj rezervitaj.
 
@@ -78,7 +78,7 @@ La aplikaĵo estas protektata de la hispana leĝo pri intelekta proprieto kaj de
 
 ## 10. Aplikebla leĝo kaj jurisdikcio
 
-Ĉi tiu permesilo estas regata de la hispana leĝo. Por ajna disputo, la partoj submetiĝas al la tribunaloj de Lleida (Hispanio), krom kiam la uzanto estas konsumanto: tiukaze kompetentas la tribunalo fiksita de la konsumantaj leĝoj.
+Ĉi tiu permesilo estas regata de la leĝo de la loĝlando de la uzanto. Por ajna disputo kompetentas la tribunaloj de la loĝloko de la uzanto.
 
 ## 11. Kontakto
 

@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · **Euskara** · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md)
 
-1.1 bertsioa · 2026ko urriaren 22a
+1.3 bertsioa · 2026ko urriaren 23a
 
 © 2026 XS Field Calc. Eskubide guztiak erreserbatuta.
 
@@ -78,7 +78,7 @@ Aplikazioa Espainiako jabetza intelektualaren legeak eta nazioarteko itunek babe
 
 ## 10. Lege aplikagarria eta jurisdikzioa
 
-Lizentzia hau Espainiako legeak arautzen du. Edozein gatazkatarako, aldeak Lleidako epaitegi eta auzitegien mende jartzen dira, aplikazioa erabiltzen duena kontsumitzailea denean izan ezik: kasu horretan, kontsumo-araudiak finkatzen duen epaitegia da eskuduna.
+Lizentzia hau erabiltzailea bizi den herrialdeko legeak arautzen du. Edozein gatazkatarako, erabiltzailearen bizilekuko epaitegi eta auzitegiak dira eskudunak.
 
 ## 11. Harremanetarako
 
