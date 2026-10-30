@@ -1,8 +1,8 @@
 # Licence d'utilisation de XS Field Calc
 
-[Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · **Français** · [Esperanto](LICENSE.eo.md)
+[Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · **Français** · [Esperanto](LICENSE.eo.md) · [Română](LICENSE.ro.md) · [Aranés](LICENSE.oc.md)
 
-Version 1.3 · 23 octobre 2026
+Version 1.4 · 25 octobre 2026
 
 © 2026 XS Field Calc. Tous droits réservés.
 
@@ -70,7 +70,9 @@ Rien dans cette licence n'exclut ni ne limite la responsabilité que la loi ne p
 
 ## 8. Confidentialité
 
-L'application n'a ni inscription ni publicité. Les données sont enregistrées uniquement dans votre navigateur. L'application se connecte au site officiel uniquement pour chercher de nouvelles versions et vérifier qu'elle est toujours valide ; lors de cette connexion, le serveur du site officiel reçoit votre adresse IP, comme pour n'importe quel site.
+L'application n'a ni inscription ni publicité. Vos chantiers et les données que vous saisissez sont enregistrés dans votre navigateur. L'application se connecte au site officiel pour chercher de nouvelles versions et vérifier qu'elle est toujours valide ; lors de cette connexion, le serveur du site officiel reçoit votre adresse IP, comme pour n'importe quel site.
+
+Ceci est une version d'essai pour les bêta-testeurs. Pour savoir comment elle est utilisée et l'améliorer, l'application envoie au serveur du titulaire des données d'utilisation : un identifiant aléatoire de l'appareil, la version, la langue, la taille de l'écran, le système, si elle est installée, les rubriques et les outils que vous ouvrez, les valeurs que vous saisissez, les boutons sur lesquels vous appuyez, les erreurs et la durée d'utilisation. Le serveur reçoit aussi votre adresse IP et votre navigateur. L'adresse IP complète est conservée 30 jours pour éviter les abus, puis seulement tronquée ; les données d'utilisation sont conservées 25 mois. Ces données ne sont ni vendues ni partagées avec qui que ce soit. Vous pouvez demander à les consulter ou à les faire effacer à l'adresse de contact.
 
 ## 9. Propriété intellectuelle
 

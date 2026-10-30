@@ -1,8 +1,8 @@
 # Licencia de uso de XS Field Calc
 
-[Català](LICENSE.md) · [English](LICENSE.en.md) · **Español** · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md)
+[Català](LICENSE.md) · [English](LICENSE.en.md) · **Español** · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md) · [Română](LICENSE.ro.md) · [Aranés](LICENSE.oc.md)
 
-Versión 1.3 · 23 de octubre de 2026
+Versión 1.4 · 25 de octubre de 2026
 
 © 2026 XS Field Calc. Todos los derechos reservados.
 
@@ -70,7 +70,9 @@ Nada de esta licencia excluye ni limita la responsabilidad que la ley no permite
 
 ## 8. Privacidad
 
-La aplicación no tiene registro ni anuncios. Los datos se guardan solo en tu navegador. La aplicación se conecta a la web oficial solo para buscar versiones nuevas y comprobar si sigue vigente; en esa conexión, el servidor de la web oficial recibe tu dirección IP, como ocurre con cualquier web.
+La aplicación no tiene registro ni anuncios. Las obras y los datos que introduces se guardan en tu navegador. La aplicación se conecta a la web oficial para buscar versiones nuevas y comprobar si sigue vigente; en esa conexión, el servidor de la web oficial recibe tu dirección IP, como ocurre con cualquier web.
+
+Esta es una versión de prueba para beta testers. Para saber cómo se usa y mejorarla, la aplicación envía al servidor del titular datos de uso: un identificador aleatorio del aparato, la versión, el idioma, el tamaño de la pantalla, el sistema, si está instalada, los apartados y las herramientas que abres, los valores que introduces, los botones que pulsas, los errores y el tiempo de uso. El servidor también recibe tu dirección IP y el navegador. La dirección IP completa se guarda 30 días para evitar abusos y después solo acortada; los datos de uso se guardan 25 meses. Estos datos no se venden ni se comparten con nadie. Puedes pedir verlos o borrarlos en la dirección de contacto.
 
 ## 9. Propiedad intelectual
 

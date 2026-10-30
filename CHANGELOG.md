@@ -2,6 +2,21 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-30 01:08]
+### Canviat
+- Nivell 0: versió 3ba156c95828 de xs-field-calc-0.html (SHA-256 5af6a00841ba9fd0…).
+- Nivell 1: versió 4d573a9db2a4 de xs-field-calc.html (SHA-256 244aef4f7a1a9af9…).
+- Nivell 2: versió b724a0544ace de xs-field-calc-2.html (SHA-256 40bca95769203220…).
+- Novetats que veuran els usuaris (entrada 5):
+  - Apartat nou «Aïllament IT», just després de «Mesures»: compara què marquen el LIM nord-americà (NFPA 99, NEC 517) i el vigilant d'aïllament IEC 61557-8 en el mateix sistema IT de dos fils, amb els punts de salt, el diagrama fasorial i cinc escenaris.
+  - Estil nou «Simulador» a Ajustos → Estil: l'apartat «Aïllament IT» es veu com un simulador, amb els controls i els dos aparells a dalt i la consulta a sota.
+  - L'app i la Guia ara també en romanès i en aranès.
+  - La barra dels apartats de dalt té una barra de desplaçament més ampla a l'ordinador, i es pot moure arrossegant els botons.
+  - A l'ordinador, l'índex lateral de cada apartat es pot amagar amb el botó del costat del títol «Índex».
+  - La capçalera i la barra d'apartats es poden amagar amb el botó ⌃ de dalt a la dreta, i tornar a mostrar amb el botó ⌄.
+  - Temes nous a Ajustos → Tema: Pissarra i baquelita, Paper pijama, Tauler d'eines, Terminal Cyberdeck, Analògic i Esmalt.
+  - Ajustos més senzill: queden 11 temes i 5 estils, i Taller passa a ser fosc. Si feies servir un tema o un estil que ja no hi és, l'app torna a Taller i a l'Índex lateral.
+
 ## [2026-10-24 00:51]
 ### Canviat
 - Nivell 0: versió ea5001e6cd1b de xs-field-calc-0.html (SHA-256 50667b414c26c573…).

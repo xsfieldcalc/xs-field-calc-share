@@ -2,7 +2,7 @@
 
 # XS Field Calc
 
-[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Français](README.fr.md) · **Esperanto**
+[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Français](README.fr.md) · **Esperanto** · [Română](README.ro.md) · [Aranés](README.oc.md)
 
 Senpagaj kalkuliloj por elektristoj, en unu sola dosiero. Malfermu ĝin per iu ajn ĝisdata retumilo, ankaŭ per poŝtelefono. Ĝi funkcias senrete, sen registriĝo kaj sen reklamoj; viaj datumoj restas en via retumilo.
 

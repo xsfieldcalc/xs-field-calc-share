@@ -2,7 +2,7 @@
 
 # XS Field Calc
 
-**Català** · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Français](README.fr.md) · [Esperanto](README.eo.md)
+**Català** · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · [Français](README.fr.md) · [Esperanto](README.eo.md) · [Română](README.ro.md) · [Aranés](README.oc.md)
 
 Eines de càlcul gratuïtes per a electricistes, en un sol fitxer. Obre-la amb qualsevol navegador actual, també des del mòbil. Funciona sense connexió, sense registre i sense anuncis; les dades es queden al teu navegador.
 

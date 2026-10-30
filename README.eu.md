@@ -2,7 +2,7 @@
 
 # XS Field Calc
 
-[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · **Euskara** · [Français](README.fr.md) · [Esperanto](README.eo.md)
+[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · **Euskara** · [Français](README.fr.md) · [Esperanto](README.eo.md) · [Română](README.ro.md) · [Aranés](README.oc.md)
 
 Elektrizistentzako doako kalkulu-tresnak, fitxategi bakar batean. Ireki edozein nabigatzaile eguneratutan, baita mugikorretik ere. Konexiorik gabe dabil, erregistrorik eta iragarkirik gabe; datuak zure nabigatzailean geratzen dira.
 

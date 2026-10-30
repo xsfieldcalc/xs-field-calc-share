@@ -2,7 +2,7 @@
 
 # XS Field Calc
 
-[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · **Français** · [Esperanto](README.eo.md)
+[Català](README.md) · [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md) · [Galego](README.gl.md) · [Euskara](README.eu.md) · **Français** · [Esperanto](README.eo.md) · [Română](README.ro.md) · [Aranés](README.oc.md)
 
 Outils de calcul gratuits pour électriciens, en un seul fichier. Ouvrez-la dans n'importe quel navigateur récent, aussi sur un téléphone. Fonctionne hors ligne, sans inscription et sans publicité ; vos données restent dans votre navigateur.
 
