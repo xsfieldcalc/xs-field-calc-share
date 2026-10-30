@@ -2,6 +2,16 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-30 01:59]
+### Canviat
+- Nivell 0: versió e9e4a983af7b de xs-field-calc-0.html (SHA-256 45e108cddb907c28…).
+- Nivell 1: versió 69785330e74d de xs-field-calc.html (SHA-256 11488d8b7d7c955a…).
+- Nivell 2: versió 476accaf95d9 de xs-field-calc-2.html (SHA-256 ae1e4aa42a175e88…).
+- Novetats que veuran els usuaris (entrada 6):
+  - Apartat nou «Comprovador», que ara és on s'obre l'app: un quadre dels EUA (UL / NEC) que configures tu, amb els aparells del catàleg de Fluke i el comprovador XS Tester. Posa les puntes, les pinces o les piques on toca i mira què marcaria l'aparell i si la lectura és bona.
+  - Apartat nou «Pinces»: passa a ampers la sortida de les pinces i dels transductors de corrent (mV/A, 333 mV, 1 V, 5 V, 10 V, sortida en corrent N:1 i 4–20 mA).
+  - Apartat nou «Connexions»: color de les puntes i dels terminals aïllats per secció, què volen dir els codis IP i IK, i esquemes d'interruptors.
+
 ## [2026-10-30 01:36]
 ### Canviat
 - Nivell 0: versió 75da7ef05885 de xs-field-calc-0.html (SHA-256 cb7a50745c720a18…).
