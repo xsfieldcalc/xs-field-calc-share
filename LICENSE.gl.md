@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · **Galego** · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md) · [Română](LICENSE.ro.md) · [Aranés](LICENSE.oc.md)
 
-Versión 1.4 · 25 de outubro de 2026
+Versión 1.5 · 30 de outubro de 2026
 
 © 2026 XS Field Calc. Todos os dereitos reservados.
 
@@ -73,6 +73,8 @@ Nada desta licenza exclúe nin limita a responsabilidade que a lei non permite e
 A aplicación non ten rexistro nin anuncios. As obras e os datos que introduces gárdanse no teu navegador. A aplicación conéctase á web oficial para buscar versións novas e comprobar se segue vixente; nesa conexión, o servidor da web oficial recibe o teu enderezo IP, como pasa con calquera web.
 
 Esta é unha versión de proba para beta testers. Para saber como se usa e mellorala, a aplicación envía ao servidor do titular datos de uso: un identificador aleatorio do aparello, a versión, o idioma, o tamaño da pantalla, o sistema, se está instalada, os apartados e as ferramentas que abres, os valores que introduces, os botóns que premes, os erros e o tempo de uso. O servidor tamén recibe o teu enderezo IP e o navegador. O enderezo IP completo gárdase 30 días para evitar abusos e despois só abreviado; os datos de uso gárdanse 25 meses. Estes datos non se venden nin se comparten con ninguén. Podes pedir velos ou borralos no enderezo de contacto.
+
+Os datos de uso tamén inclúen o enderezo web desde o que se abre a aplicación. Se se abre fóra da web oficial (unha copia aloxada noutro sitio ou un ficheiro gardado no disco), a aplicación non se inicia, amosa o enderezo da web oficial e envía ao titular o enderezo onde se abriu, o da páxina da que viña e un identificador aleatorio.
 
 ## 9. Propiedade intelectual
 

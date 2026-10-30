@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md) · **Română** · [Aranés](LICENSE.oc.md)
 
-Versiunea 1.4 · 25 octombrie 2026
+Versiunea 1.5 · 30 octombrie 2026
 
 © 2026 XS Field Calc. Toate drepturile rezervate.
 
@@ -73,6 +73,8 @@ Nicio prevedere a acestei licențe nu exclude și nu limitează răspunderea pe 
 Aplicația nu necesită înregistrare și nu conține reclame. Lucrările și datele pe care le introduceți sunt stocate în browserul dumneavoastră. Aplicația se conectează la site-ul oficial pentru a căuta versiuni noi și pentru a verifica dacă este încă valabilă; cu ocazia acestei conectări, serverul site-ului oficial primește adresa dumneavoastră IP, ca în cazul oricărui site web.
 
 Aceasta este o versiune de test pentru beta-testeri. Pentru a afla cum este folosită și a o îmbunătăți, aplicația trimite către serverul titularului date de utilizare: un identificator aleatoriu al dispozitivului, versiunea, limba, dimensiunea ecranului, sistemul, dacă este instalată, secțiunile și instrumentele pe care le deschideți, valorile pe care le introduceți, butoanele pe care le apăsați, erorile și timpul de utilizare. Serverul primește și adresa dumneavoastră IP și browserul. Adresa IP completă se păstrează 30 de zile pentru a preveni abuzurile, iar apoi numai scurtată; datele de utilizare se păstrează 25 de luni. Aceste date nu sunt vândute și nu sunt comunicate nimănui. Puteți cere să le vedeți sau să fie șterse la adresa de contact.
+
+Datele de utilizare includ și adresa web de la care este deschisă aplicația. Dacă este deschisă în afara site-ului oficial (o copie găzduită în alt loc sau un fișier salvat pe disc), aplicația nu pornește, afișează adresa site-ului oficial și trimite titularului adresa unde a fost deschisă, pe cea a paginii de unde venea și un identificator aleatoriu.
 
 ## 9. Proprietate intelectuală
 

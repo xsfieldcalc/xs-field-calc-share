@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · **Esperanto** · [Română](LICENSE.ro.md) · [Aranés](LICENSE.oc.md)
 
-Versio 1.4 · 25 oktobro 2026
+Versio 1.5 · 30 oktobro 2026
 
 © 2026 XS Field Calc. Ĉiuj rajtoj rezervitaj.
 
@@ -73,6 +73,8 @@ Nenio en ĉi tiu permesilo ekskludas aŭ limigas respondecon, kiun la leĝo ne p
 La aplikaĵo havas nek registriĝon nek reklamojn. Viaj laboroj kaj la datumoj, kiujn vi enigas, estas konservataj en via retumilo. La aplikaĵo konektiĝas al la oficiala retejo por serĉi novajn versiojn kaj kontroli, ĉu ĝi ankoraŭ validas; dum tiu konekto, la servilo de la oficiala retejo ricevas vian IP-adreson, kiel ĉe iu ajn retejo.
 
 Ĉi tio estas testa versio por beta-testantoj. Por scii, kiel ĝi estas uzata, kaj plibonigi ĝin, la aplikaĵo sendas al la servilo de la posedanto uzdatumojn: hazardan identigilon de la aparato, la version, la lingvon, la grandon de la ekrano, la sistemon, ĉu ĝi estas instalita, la sekciojn kaj ilojn, kiujn vi malfermas, la valorojn, kiujn vi enigas, la butonojn, kiujn vi premas, la erarojn kaj la tempon de uzo. La servilo ankaŭ ricevas vian IP-adreson kaj retumilon. La tuta IP-adreso estas konservata dum 30 tagoj por eviti misuzon kaj poste nur mallongigita; la uzdatumoj estas konservataj dum 25 monatoj. Ĉi tiuj datumoj estas nek vendataj nek dividataj kun iu ajn. Vi povas peti vidi aŭ forigi ilin ĉe la kontakta adreso.
+
+La uzdatumoj inkluzivas ankaŭ la retadreson, de kie la aplikaĵo estas malfermita. Se ĝi estas malfermita ekster la oficiala retejo (kopio gastigita aliloke aŭ dosiero konservita sur disko), la aplikaĵo ne startas, montras la adreson de la oficiala retejo kaj sendas al la posedanto la adreson, kie ĝi estis malfermita, tiun de la paĝo, de kie oni venis, kaj hazardan identigilon.
 
 ## 9. Intelekta proprieto
 

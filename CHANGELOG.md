@@ -2,6 +2,12 @@
 
 Format [Keep a Changelog](https://keepachangelog.com/ca/1.1.0/). Hora d'Andorra.
 
+## [2026-10-30 02:40]
+### Canviat
+- Nivell 0: versió ea1216c7ec18 de xs-field-calc-0.html (SHA-256 bc201bddb27dc85c…).
+- Nivell 1: versió a70816e0e982 de xs-field-calc.html (SHA-256 12ba612010e1d0e4…).
+- Nivell 2: versió 4ccdb124d9e3 de xs-field-calc-2.html (SHA-256 7cdb5e85fa72dbce…).
+
 ## [2026-10-30 01:59]
 ### Canviat
 - Nivell 0: versió e9e4a983af7b de xs-field-calc-0.html (SHA-256 45e108cddb907c28…).

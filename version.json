@@ -1,10 +1,11 @@
 {
- "id": "69785330e74d",
- "ts": 1793321915,
- "date": "2026-10-30 01:59",
+ "id": "a70816e0e982",
+ "ts": 1793324389,
+ "date": "2026-10-30 02:40",
  "expires": "2026-12-31",
  "revoked": false,
- "sha256": "11488d8b7d7c955a936659bfbb1b4f5e772bb8ad80c8df4a004823cdcc50dfa8",
+ "sha256": "12ba612010e1d0e40452c1c8d40d2a33ce221f8126454871aed94b540469c126",
  "file": "xs-field-calc.html",
- "notes": 6
+ "notes": 6,
+ "sig": "IpksRYK9qElVh6HBwaEwjwKCC6OfpylU3RaZZpm2pYPBRJ1P6zwPJlqU50Gn4PgoyPZ0UC/6pt86nuTJex52Aw=="
 }

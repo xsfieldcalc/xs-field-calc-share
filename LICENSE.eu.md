@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · **Euskara** · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md) · [Română](LICENSE.ro.md) · [Aranés](LICENSE.oc.md)
 
-1.4 bertsioa · 2026ko urriaren 25a
+1.5 bertsioa · 2026ko urriaren 30a
 
 © 2026 XS Field Calc. Eskubide guztiak erreserbatuta.
 
@@ -73,6 +73,8 @@ Lizentzia honetako ezerk ez du baztertzen edo mugatzen legeak baztertzen uzten e
 Aplikazioak ez du erregistrorik ez iragarkirik. Lanak eta sartzen dituzun datuak zure nabigatzailean gordetzen dira. Aplikazioa webgune ofizialera konektatzen da bertsio berriak bilatzeko eta oraindik indarrean dagoen egiaztatzeko; konexio horretan, webgune ofizialaren zerbitzariak zure IP helbidea jasotzen du, edozein webgunetan bezala.
 
 Hau beta testerrentzako proba-bertsio bat da. Nola erabiltzen den jakiteko eta hobetzeko, aplikazioak erabilera-datuak bidaltzen dizkio titularraren zerbitzariari: gailuaren ausazko identifikatzaile bat, bertsioa, hizkuntza, pantailaren tamaina, sistema, instalatuta dagoen ala ez, irekitzen dituzun atalak eta tresnak, sartzen dituzun balioak, sakatzen dituzun botoiak, akatsak eta erabilera-denbora. Zerbitzariak zure IP helbidea eta nabigatzailea ere jasotzen ditu. IP helbide osoa 30 egunez gordetzen da gehiegikeriak saihesteko, eta gero laburtuta bakarrik; erabilera-datuak 25 hilabetez gordetzen dira. Datu hauek ez dira saltzen eta ez zaizkio inori ematen. Kontaktu-helbidean eska dezakezu ikustea edo ezabatzea.
+
+Erabilera-datuek aplikazioa irekitzen den web-helbidea ere badute. Webgune ofizialetik kanpo irekitzen bada (beste leku batean ostatatutako kopia bat edo diskoan gordetako fitxategi bat), aplikazioa ez da abiarazten, webgune ofizialaren helbidea erakusten du eta titularrari bidaltzen dio non ireki den, zein orritatik zetorren eta ausazko identifikatzaile bat.
 
 ## 9. Jabetza intelektuala
 

@@ -2,7 +2,7 @@
 
 [Català](LICENSE.md) · [English](LICENSE.en.md) · [Español](LICENSE.es.md) · [Português](LICENSE.pt.md) · [Galego](LICENSE.gl.md) · [Euskara](LICENSE.eu.md) · [Français](LICENSE.fr.md) · [Esperanto](LICENSE.eo.md) · [Română](LICENSE.ro.md) · **Aranés**
 
-Version 1.4 · 25 d'octobre de 2026
+Version 1.5 · 30 d'octobre de 2026
 
 © 2026 XS Field Calc. Toti es drets reservats.
 
@@ -73,6 +73,8 @@ Arren en aguesta licéncia non elimine ne limite era responsabilitat qu'era lei 
 Era aplicacion non a registre ne publicitat. Es òbres e es donades que i entratz se sauven en vòste navegador. Era aplicacion se connècte ath lòc web oficiau entà cercar versions naues e verificar s'ei encara vigenta; en aguesta connexion, eth servidor deth lòc web oficiau recep era adreça IP, coma passe damb quinsevolh lòc web.
 
 Aguesta ei ua version de pròva entà beta testers. Entà saber coma s'utilize e entà milhorar-la, era aplicacion mande ath servidor deth titular donades d'usatge: un identificador aleatòri deth dispositiu, era version, era lengua, era talha dera pantalha, eth sistèma, se ei installada, es apartats e es airines que dauritz, es valors que i entratz, es botons que clicatz, es errors e eth temps d'usatge. Eth servidor tanben recep era adreça IP e eth navegador. Era adreça IP completa se sauve 30 dies entà evitar abusi e dempús sonque acorchada; es donades d'usatge se sauven 25 mesi. Aguestes donades non se venen ne se compartissen damb degun. Podetz demanar de véder-les o d'esfaçar-les ena adreça de contacte.
+
+Es donades d'usatge tanben includissen era adreça web d'a on se daurís era aplicacion. Se se daurís dehòra deth web oficiau (ua còpia allotjada en un aute lòc o un fichèr sauvat en disc), era aplicacion non s'engega, mòstre era adreça deth web oficiau e mande ath titular era adreça a on s'a daurit, era dera pagina d'a on venguie e un identificador aleatòri.
 
 ## 9. Proprietat intellectuau
 
